@@ -1,0 +1,10 @@
+# Java compiled files
+*.class
+
+# NetBeans specific
+nbproject/private/
+
+# Build folders
+build/
+out/
+target/
