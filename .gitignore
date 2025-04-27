@@ -5,6 +5,6 @@
 nbproject/private/
 
 # Build folders
-build/
-out/
-target/
+/build/
+/out/
+/target/
